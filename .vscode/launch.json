@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Sp32Application<sp32>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.copower.sp32.Sp32Application",
+            "projectName": "sp32",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
