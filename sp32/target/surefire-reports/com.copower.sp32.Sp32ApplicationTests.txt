@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.copower.sp32.Sp32ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.455 s -- in com.copower.sp32.Sp32ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.070 s -- in com.copower.sp32.Sp32ApplicationTests
